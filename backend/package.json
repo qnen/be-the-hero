@@ -1,0 +1,23 @@
+{
+  "name": "rocketseat-omnistack11",
+  "version": "1.0.0",
+  "description": "Este foi um projeto desenvolvido durante a 11ª Semana Omnistack da Rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qnen/rocketseat-omnistack11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qnen/rocketseat-omnistack11/issues"
+  },
+  "homepage": "https://github.com/qnen/rocketseat-omnistack11#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
